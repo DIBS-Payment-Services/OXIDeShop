@@ -1,4 +1,4 @@
-OXIDeShop
-=========
+OXID eShop
+=====
 
-DIBS OXID eShop Shop Module
+This file will soon be updated with installation guide.

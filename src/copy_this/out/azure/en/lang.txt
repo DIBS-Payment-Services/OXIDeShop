@@ -1,0 +1,3 @@
+DIBSPW_TOTAL_TAX = Total tax
+DIBSPW_TOTAL_DISCOUNT = Total discount
+DIBSPW_TOTAL_DELIVERY = Delivery price

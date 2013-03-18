@@ -1,0 +1,3 @@
+order => dibspw/dibspw_order
+payment_main => dibspw/dibspw_payment
+oxorder => dibspw/dibspw_oxorder
